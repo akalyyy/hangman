@@ -1,6 +1,8 @@
 import random
 #comment for git practise
 # List of words for the game
+#new branch change (1)
+#hi (newbranch)
 words = ["hangman", "python", "game", "programming", "openai"]
 
 # Hangman graphics
