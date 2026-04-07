@@ -3,6 +3,7 @@ import random
 # List of words for the game
 #new branch change (1)
 #hi (newbranch)
+#testing merge conflict
 words = ["hangman", "python", "game", "programming", "openai"]
 
 # Hangman graphics
