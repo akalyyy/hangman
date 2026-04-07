@@ -1,5 +1,5 @@
 import random
-
+#comment for git practise
 # List of words for the game
 words = ["hangman", "python", "game", "programming", "openai"]
 
